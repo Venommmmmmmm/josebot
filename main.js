@@ -79,9 +79,9 @@ Fg.on('group-participants-update', async (anu) => {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `Hola @${num.split('@')[0]}\nBienvenido/a al Grupo *${mdata.subject}*
+				teks = `` 𝕭𝖎𝖊𝖓𝖛𝖊𝖓𝖎𝖉𝖔 𝖕𝖆𝖓𝖆, 𝖊𝖘𝖕𝖊𝖗𝖔 𝖊𝖑 𝖌𝖗𝖚𝖕𝖔 𝖘𝖊𝖆 𝖉𝖊 𝖘𝖚 𝖆𝖌𝖗𝖆𝖉𝖔>3🐢 @${num.split('@')[0]}\n *${mdata.subject}*
 
-▢ *Pide las reglas del grupo* para evitar ser baneado
+▢ *𝕻𝖗𝖊𝖘é𝖓𝖙𝖆𝖙𝖊 𝖈𝖔𝖓 𝖋𝖔𝖙𝖔, 𝖊𝖉𝖆𝖉, 𝖕𝖆í𝖘, 𝖓𝖔𝖒𝖇𝖗𝖊, 𝖔𝖏𝖎𝖙𝖔 𝖈𝖔𝖓 𝖊𝖑 𝖘𝖕𝖆𝖒..🐢
 
 //▢ *📌 Descripción :* \n${mdata.desc}
 `
