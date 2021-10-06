@@ -85,7 +85,7 @@ Fg.on('group-participants-update', async (anu) => {
 𝕴𝖌 𝖉𝖊𝖑 𝖌𝖗𝖚𝖕𝖔 🐢.. https://www.instagram.com/hxneybee__1?r=nametag
 
 
-//▢ *📌 Descripción :* \n${mdata.desc}
+▢ *📌 Descripción :* \n${mdata.desc}
 `
 				
 				let buff = await getBuffer(ppimg)
